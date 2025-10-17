@@ -4,7 +4,7 @@
   "description": "Codecov CircleCI Orb",
   "main": "index.js",
   "devDependencies": {
-    "@types/mocha": "^9.1.0",
+    "@types/mocha": "^10.0.10",
     "chai": "^4.3.6",
     "mocha": "^11.1.0",
     "nyc": "^15.1.0",
